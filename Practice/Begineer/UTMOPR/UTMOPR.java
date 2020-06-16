@@ -1,3 +1,5 @@
+package Practice.Begineer.UTMOPR;
+
 import java.io.*;
 class TEMPLELA {
     public static void main(String[] args) throws Exception {

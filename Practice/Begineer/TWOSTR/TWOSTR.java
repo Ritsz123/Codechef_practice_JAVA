@@ -1,3 +1,5 @@
+package Practice.Begineer.TWOSTR;
+
 import java.io.*;
 class TWOSTR {
     public static void main(String[] args) throws Exception {

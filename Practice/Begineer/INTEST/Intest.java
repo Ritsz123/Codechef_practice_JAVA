@@ -1,3 +1,5 @@
+package Practice.Begineer.INTEST;
+
 import java.util.Scanner;
 
 class Intest {

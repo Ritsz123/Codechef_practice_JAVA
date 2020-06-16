@@ -1,3 +1,5 @@
+package Practice.Begineer.KTTABLE;
+
 import java.io.*;
 class KTTABLE {
     public static void main(String[] args) throws Exception {

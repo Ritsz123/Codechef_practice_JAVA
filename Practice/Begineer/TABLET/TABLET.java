@@ -1,4 +1,4 @@
-
+package Practice.Begineer.TABLET;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

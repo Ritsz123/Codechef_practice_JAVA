@@ -1,3 +1,5 @@
+package Practice.Begineer.CFRTEST;
+
 import java.io.*;
 import java.util.Arrays;
 class CFRTEST{

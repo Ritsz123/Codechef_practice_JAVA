@@ -1,3 +1,5 @@
+package Practice.Begineer.RECIPE;
+
 import java.util.*;
 class Recipe {
     public static void main(String[] args) throws Exception {

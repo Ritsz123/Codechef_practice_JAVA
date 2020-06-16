@@ -1,3 +1,5 @@
+package Practice.Begineer.CANDY123;
+
 import java.io.*;
 class CANDY123 {
     public static void main(String[] args) throws Exception {

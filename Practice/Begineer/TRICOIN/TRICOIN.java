@@ -1,3 +1,5 @@
+package Practice.Begineer.TRICOIN;
+
 import java.io.*;
 class TRICOIN {
     public static void main(String[] args) throws Exception {

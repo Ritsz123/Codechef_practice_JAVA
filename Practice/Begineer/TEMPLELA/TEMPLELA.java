@@ -8,7 +8,7 @@ class TEMPLELA {
         while (t-->0) {
             int n = Integer.parseInt(br.readLine());
             String[] line = br.readLine().split(" ");
-            int [] nos = new int[n];
+           
             boolean isPossible = true;
             if(line.length%2==1){
                 int prev=0;

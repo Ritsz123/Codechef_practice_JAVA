@@ -1,3 +1,5 @@
+package Practice.Begineer.CK87MEDI;
+
 import java.io.*;
 import java.util.Arrays;
 class TEMPLELA {

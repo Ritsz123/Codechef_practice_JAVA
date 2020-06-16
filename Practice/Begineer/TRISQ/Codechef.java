@@ -1,3 +1,4 @@
+package Practice.Begineer.TRISQ;
 
 import java.util.*;
 

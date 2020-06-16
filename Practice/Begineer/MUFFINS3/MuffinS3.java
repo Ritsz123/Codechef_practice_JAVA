@@ -1,3 +1,5 @@
+package Practice.Begineer.MUFFINS3;
+
 import java.util.*;
 import java.io.*;
 class MuffinS3 {

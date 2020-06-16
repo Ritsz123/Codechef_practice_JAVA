@@ -1,4 +1,4 @@
-
+package Practice.Begineer.LUCKYFOUR;
 
 import java.util.*;
 

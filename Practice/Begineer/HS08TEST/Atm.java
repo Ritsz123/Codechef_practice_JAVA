@@ -1,3 +1,5 @@
+package Practice.Begineer.HS08TEST;
+
 import java.util.Scanner;
 
 public class Atm {

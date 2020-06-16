@@ -1,3 +1,5 @@
+package Practice.Begineer.CHN09;
+
 import java.io.*;
 class CHN09{
     public static void main(String[] args) throws Exception {

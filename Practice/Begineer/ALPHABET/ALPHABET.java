@@ -1,3 +1,5 @@
+package Practice.Begineer.ALPHABET;
+
 import java.io.*;
 class ALPHABET {
     public static void main(String[] args) throws Exception {

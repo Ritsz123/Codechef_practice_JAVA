@@ -1,3 +1,5 @@
+package Practice.Begineer.CHFINTRO;
+
 import java.io.*;
 class CHFINTRO{
     public static void main(String[] args) throws Exception{

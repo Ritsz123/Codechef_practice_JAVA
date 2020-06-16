@@ -1,3 +1,5 @@
+package Practice.Begineer.FLOW002;
+
 import java.util.*;
 class Codechef{
     public static void main(String[] args) {

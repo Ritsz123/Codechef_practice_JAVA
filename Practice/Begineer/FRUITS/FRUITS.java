@@ -1,3 +1,5 @@
+package Practice.Begineer.FRUITS;
+
 import java.io.*;
 class FRUITS {
     public static void main(String[] args) throws Exception {

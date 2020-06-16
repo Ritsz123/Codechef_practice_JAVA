@@ -1,3 +1,5 @@
+package Practice.Begineer.HEADBOB;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

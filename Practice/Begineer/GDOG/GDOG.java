@@ -1,3 +1,5 @@
+package Practice.Begineer.GDOG;
+
 import java.io.*;
 class GDOG {
     public static void main(String[] args) throws Exception {

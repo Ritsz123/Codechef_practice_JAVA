@@ -1,3 +1,5 @@
+package Practice.Begineer.PPSUM;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;

@@ -1,3 +1,5 @@
+package Practice.Begineer.CHN15A;
+
 import java.io.*;
 class CHN15A {
     public static void main(String[] args) throws Exception {

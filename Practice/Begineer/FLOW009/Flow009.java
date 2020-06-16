@@ -1,4 +1,6 @@
-import java.util.*;
+package Practice.Begineer.FLOW009;
+
+
 import java.io.*;
 class Flow009{
     public static void main(String[] args) throws Exception {

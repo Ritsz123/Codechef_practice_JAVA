@@ -1,3 +1,5 @@
+package Practice.Begineer.SNAKPROC;
+
 import java.io.*;
 class PLAYPIAN {
     public static void main(String[] args) throws Exception{

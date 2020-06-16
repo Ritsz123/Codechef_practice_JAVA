@@ -1,4 +1,5 @@
-import java.util.*;
+package Practice.Begineer.CIELRCPT;
+
 import java.io.*;
 class CIELRCPT {
     public static void main(String[] args) throws Exception {

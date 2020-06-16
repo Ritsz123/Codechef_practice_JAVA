@@ -1,3 +1,5 @@
+package Practice.Begineer.CHEFSTLT;
+
 import java.io.*;
 class CHEFSTLT {
     public static void main(String[] args) throws Exception {

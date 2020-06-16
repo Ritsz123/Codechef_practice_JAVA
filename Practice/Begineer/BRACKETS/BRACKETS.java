@@ -7,7 +7,6 @@ class BRACKETS {
         int t= Integer.parseInt(br.readLine());
         while(t-->0){
             String s = br.readLine();
-            String r="";
             int balance=0;
             int maxbalance=0;
             int l = s.length();

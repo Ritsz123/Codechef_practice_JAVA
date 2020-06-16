@@ -1,3 +1,4 @@
+package Practice.Begineer.CCOOK;
 
 import java.io.*;
 class CCOOK{

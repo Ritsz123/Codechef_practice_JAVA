@@ -1,3 +1,5 @@
+package Practice.Begineer.ATM2;
+
 import java.io.*;
 class ATM2 {
     public static void main(String[] args) throws Exception {

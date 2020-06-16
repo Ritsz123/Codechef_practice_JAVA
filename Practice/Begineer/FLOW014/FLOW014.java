@@ -1,3 +1,5 @@
+package Practice.Begineer.FLOW014;
+
 import java.util.*;
 
 class FLOW014 {

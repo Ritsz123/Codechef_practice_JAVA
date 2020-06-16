@@ -1,3 +1,5 @@
+package Practice.Begineer.POTATOES;
+
 import java.util.*;
 import java.io.*;
 class POTATOES {
