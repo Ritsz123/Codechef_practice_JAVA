@@ -5,7 +5,7 @@ package Practice.Easy.CLEANUP;
  */
 import java.io.*;
 import java.util.ArrayList;
-public class CLEANUP {
+class CLEANUP {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -20,7 +20,7 @@ public class CLEANUP {
                 mList.add(Integer.parseInt(line2[i]));
             }
             ArrayList<Integer> al = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
+            for (int i = 1; i <= n; i++) {
                 if(!mList.contains(new Integer(i))){
                     al.add(i);
                 }
@@ -28,7 +28,7 @@ public class CLEANUP {
             String s1="";
             String s2="";
             for (int i = 0; i < al.size();i++) {
-                int index = al.get(i)+1;
+                int index = al.get(i);
                 if(i%2==0){
                     s1+=index+" ";
                 }else s2+=index+" ";
