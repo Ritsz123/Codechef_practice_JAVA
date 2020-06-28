@@ -1,2 +1,2 @@
 # Codechef Practice
-*This is my private repository to revise, learn and practice __codechef__ problems from begineer level*
+*A repository to Learn, revise, and practice __codechef__ problems from begineer level in __JAVA__*
