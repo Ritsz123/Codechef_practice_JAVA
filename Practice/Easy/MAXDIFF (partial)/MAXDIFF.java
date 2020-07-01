@@ -3,9 +3,13 @@
 /**
  * MAXDIFF
  */
+
+/**
+ * MAXDIFF
+ */
 import java.io.*;
 import java.util.Arrays;
-public class MAXDIFF {
+class MAXDIFF {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -20,14 +24,23 @@ public class MAXDIFF {
                 arr[i] = Integer.parseInt(line2[i]);
             }
             Arrays.sort(arr);
-            int weightSon=0;
-            int weightChef=0;
-            for (int i = 0; i < arr.length; i++) {
-                if(i<k){
-                    weightSon+=arr[i];
-                }else weightChef+=arr[i];
+            long weightA=0;
+            long weightB=0;
+            
+            if(k>(n/2)){
+                for(int i=0;i<n;i++){
+                    if(i<n-k){
+                        weightA+=arr[i];
+                    }else weightB+=arr[i];
+                }        
+            }else{
+                for (int i = 0; i < arr.length; i++) {
+                    if(i<k){
+                        weightA+=arr[i];
+                    }else weightB+=arr[i];
+                } 
             }
-            int diff = weightChef-weightSon;
+            long diff = Math.abs(weightA-weightB);
             System.out.println(diff);
         }
     }
