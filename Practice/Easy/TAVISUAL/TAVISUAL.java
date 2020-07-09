@@ -1,8 +1,5 @@
 package Practice.Easy.TAVISUAL;
 
-/**
- * TAVISUAL
- */
 import java.io.*;
 class TAVISUAL {
 
