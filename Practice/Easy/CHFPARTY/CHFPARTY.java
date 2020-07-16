@@ -1,3 +1,5 @@
+package Practice.Easy.CHFPARTY;
+
 /* package codechef; // don't place package name! */
 
 import java.util.*;
